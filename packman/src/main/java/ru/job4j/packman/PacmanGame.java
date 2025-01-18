@@ -33,7 +33,7 @@ public class PacmanGame extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        primaryStage.setTitle("Pac-Man Game");
+        primaryStage.setTitle("Pac-Man Game For a Third");
         Canvas canvas = new Canvas(WIDTH, HEIGHT);
         GraphicsContext gc = canvas.getGraphicsContext2D();
 
